@@ -1,3 +1,10 @@
+/*
+   Write a C program to demonstrate the use of the following string handling functions:
+   a) strcpy()
+   b) strcat()
+   c) strcmp()
+*/
+
 #include <stdio.h>
 #include <string.h>
 
