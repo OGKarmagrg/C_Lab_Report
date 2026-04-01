@@ -1,4 +1,4 @@
-//Write a C program to check whether a given number is prime or not using function.
+//Write a C program to check whether a given number is prime or not using function
 #include <stdio.h>
 
 int isPrime(int n) {
