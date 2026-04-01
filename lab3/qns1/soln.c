@@ -1,5 +1,5 @@
 //Write a c program to read n numbers of values in an array and display it.
-
+//1
 #include <stdio.h>
 
 int main() {
