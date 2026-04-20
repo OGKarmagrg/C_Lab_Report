@@ -1,0 +1,20 @@
+Book 1: The Great Gatsby
+Author: F. Scott Fitzgerald
+Company: Scribner
+
+Book 2: To Kill a Mockingbird
+Author: Harper Lee
+Company: J.B. Lippincott & Co.
+
+Book 3: 1984
+Author: George Orwell
+Company: Secker & Warburg
+
+Book 4: Pride and Prejudice
+Author: Jane Austen
+Company: T. Egerton, Whitehall
+
+Book 5: The Catcher in the Rye
+Author: J.D. Salinger
+Company: Little, Brown and Company
+
