@@ -9,6 +9,5 @@ int main() {
     for (int i = 0; i < 5; i++) {
         printf("Element %d: %d\n", i, *(ptr + i));
     }
-
     return 0;
 }
